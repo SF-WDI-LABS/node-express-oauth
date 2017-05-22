@@ -1,14 +1,3 @@
----
-title: Intro to OAuth & 3rd Party APIs with Express
-type: lesson
-duration: "1:25"
-creator:
-    name: Gerry Mathe
-    city: LDN
-competencies: Server Applications
----
-
-
 # Into to OAuth and 3rd Party APIs with Express
 
 ### Objectives
