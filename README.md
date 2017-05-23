@@ -72,10 +72,10 @@ Save your changes.
 
 #### Save environment variables
 
-Returning to terminal, as you will need to add your Environment Variables to your `.zshrc` file
+Returning to terminal, as you will need to add your Environment Variables to your `.bash_profile` file
 
 ```
-subl ~/.zshrc
+atom ~/.bash_profile
 ```
 
 And add:
@@ -87,10 +87,10 @@ export FACEBOOK_API_SECRET=
 
 Of course, you'll need to fill in the details from Facebook Developer API; you will also need to add your password in order to get your API secret key.
 
-Then save and source the `.zshrc`:
+Then save and source the `.bash_profile`:
 
 ```
-source ~/.zshrc
+source ~/.bash_profile
 ```
 
 #### Create the model
