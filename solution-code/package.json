@@ -12,5 +12,15 @@
     "passport": "^0.2.0",
     "passport-facebook": "^2.0.0",
     "passport-google-oauth": "~0.1.5"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "node-express-oauth",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
